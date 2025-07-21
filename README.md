@@ -1,7 +1,7 @@
-💱 Currency Converter Web App
+ Currency Converter Web App
 This is a simple yet functional currency converter built using HTML, CSS, and JavaScript. It allows users to convert amounts between different global currencies in real-time using exchange rates fetched from a public API.
 
-🔧 Features
+ Features
 Convert any currency to another with live exchange rates
 
 Swap source and target currencies with one click
@@ -12,7 +12,7 @@ User-friendly dropdowns for currency selection
 
 Error handling for invalid inputs and API issues
 
-🧰 Tools & Technologies Used
+ Tools & Technologies Used
 HTML, CSS, JavaScript
 
 Frankfurter API (for real-time currency data)
@@ -22,7 +22,7 @@ Frankfurter API (for real-time currency data)
 
 
 
-🚀 How to Use
+ How to Use
 Enter an amount you want to convert
 
 Select source and target currencies from the dropdowns
